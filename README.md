@@ -11,7 +11,7 @@ Like the example 1, but with mobile operator query.
 
 **Example 3**
 
-A more realistic example. Converts an example file to a vCard file.
+A more realistic example. Converts an example csv file to a vCard file.
 
 
 ## Dependencies
