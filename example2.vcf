@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Dr. John Jimmy Doe
+N:Doe;John;Jimmy;Dr.
+BDAY:1979-03-28
+ANNIVERSARY:2005-07-12
+ANNIVERSARY:2015-09-06
+ANNIVERSARY:--0627
+CATEGORIES:family,tester
+NOTE:Uncle
+NICKNAME:Johnny, Jim
+EMAIL;TYPE=home:jdoe@gmail.com
+EMAIL;TYPE=home:jimdoe@gmail.com
+EMAIL;TYPE=work:jjdoe@gmail.com
+TEL;VALUE=uri;TYPE=cell,work:tel:+3620-9123-455
+TEL;VALUE=uri;TYPE=work:tel:+3614346047
+TEL;VALUE=uri;TYPE=home:tel:+3612451654
+TEL;VALUE=uri;TYPE=cell,home:tel:+3630-8025-365
+END:VCARD

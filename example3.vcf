@@ -1,0 +1,35 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Dr. John Michael Doe
+N:Doe;John;Michael;Dr.
+BDAY:1980-12-21
+ANNIVERSARY:--0107
+TEL;VALUE=uri;TYPE=home:tel:+1901-221-5461
+TEL;VALUE=uri;TYPE=cell:tel:+1402-838-2878
+TEL;VALUE=uri;TYPE=work:tel:+1617-322-9029
+EMAIL;TYPE=home:jmdoe@gmail.com
+EMAIL;TYPE=work:jmdoe@apple.com
+CATEGORIES:family
+NOTE:uncle
+END:VCARD
+BEGIN:VCARD
+VERSION:4.0
+FN:Samantha Depp
+N:Depp;Samantha;;
+TEL;VALUE=uri;TYPE=cell:tel:+14028382878
+EMAIL;TYPE=work:sdepp@intel.com
+CATEGORIES:office
+NOTE:boss
+END:VCARD
+BEGIN:VCARD
+VERSION:4.0
+FN:Franz Ferdinand
+N:Ferdinand;Franz;;
+BDAY:1955-08-07
+TEL;VALUE=uri;TYPE=cell:tel:+1203-450-8593
+TEL;VALUE=uri;TYPE=work:tel:+1626-466-7500
+EMAIL;TYPE=home:fferdinand@gmail.com
+EMAIL;TYPE=work:fferdinand@motorola.com
+CATEGORIES:family
+NOTE:grandfather
+END:VCARD
