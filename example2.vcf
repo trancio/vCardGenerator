@@ -12,7 +12,7 @@ NICKNAME:Johnny, Jim
 EMAIL;TYPE=home:jdoe@gmail.com
 EMAIL;TYPE=home:jimdoe@gmail.com
 EMAIL;TYPE=work:jjdoe@gmail.com
-TEL;VALUE=uri;TYPE=cell,work:tel:+3620-9123-455
+TEL;VALUE=uri;TYPE=work:tel:+3620-9123-455
 TEL;VALUE=uri;TYPE=work:tel:+3614346047
 TEL;VALUE=uri;TYPE=home:tel:+3612451654
 TEL;VALUE=uri;TYPE=cell,home:tel:+3630-8025-365
