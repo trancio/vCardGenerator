@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import os
-from vcard_gen import VCardGenerator
+from vcardgenerator import VCardGenerator
 
 mobile_operators = ['Magyar Telekom', 'Vodafone', 'Telenor', 'Digi']
 

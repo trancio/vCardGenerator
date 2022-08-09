@@ -2,7 +2,7 @@
 
 import os
 import csv
-from vcard_gen import VCardGenerator
+from vcardgenerator import VCardGenerator
 
 FILENAME = 'example3'
 
